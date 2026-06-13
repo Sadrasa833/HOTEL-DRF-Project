@@ -1,0 +1,3 @@
+frontend/* linguist-vendored=true
+*.js linguist-vendored=true
+*.css linguist-vendored=true
